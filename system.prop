@@ -1,3 +1,7 @@
+# Dexopt
+pm.dexopt.first-boot=quicken
+pm.dexopt.bg-dexopt=everything
+
 # Crok's RAM Managment Fix
 ro.sys.fw.bg_apps_limit=128
 ro.vendor.qti.sys.fw.bg_apps_limit=128
