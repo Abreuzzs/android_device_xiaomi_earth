@@ -1,3 +1,9 @@
+# SkiaGL
+debug.renderengine.backend=skiaglthreaded
+debug.hwui.renderer=skiagl
+renderthread.skia.reduceopstasksplitting=true
+debug.composition.type=skiagl
+
 # Charger
 ro.charger.enable_suspend=true
 
