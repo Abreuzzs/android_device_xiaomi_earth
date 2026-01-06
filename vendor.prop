@@ -221,3 +221,11 @@ ro.vendor.wifi.sap.concurrent.iface=ap1
 ro.vendor.wifi.sap.interface=ap0
 ro.vendor.wlan.chrdev=wmt_chrdev_wifi
 ro.vendor.wlan.gen=gen4m
+
+# HWUI
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=30
+ro.hwui.render_ahead=2
+
+# Surface Flinger
+debug.sf.latch_unsignaled=0
